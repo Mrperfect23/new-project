@@ -2,5 +2,5 @@
  MY NEW PROJECT.
 
 
- # My name is Rahual kumar.
+ # My name is Rahul kumar.
  rahul
